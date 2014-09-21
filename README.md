@@ -30,4 +30,4 @@ Clicar na imagem ou no link acima da imagem abre a WebM.
 
 Sugestões
 ---------------------
-Sugere mais funcionalidades através das [Issues](https://github.com/ptchanextension/PTChan-Firefox-Extension/issues) ou no PTChan.
+Sugere mais funcionalidades através das [Issues](https://github.com/ptchanextension/PTChan-Firefox-Addon/issues) ou no PTChan.
