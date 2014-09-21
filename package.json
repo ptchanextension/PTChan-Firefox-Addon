@@ -1,0 +1,13 @@
+{
+  "name": "ptchan",
+  "title": "PTChan",
+  "id": "jid1-N5jPAA9oBBATIQ",
+  "description": "Segure o xã, amarre o xã, segure o xã xã xã xã xã",
+  "author": "",
+  "license": "MIT",
+  "version": "1.0",
+  "permissions":
+  {
+      "cross-domain-content": ["http://webmshare.com/", "http://s1.webmshare.com/"]
+  }
+}
